@@ -1,1 +1,7 @@
-*.xcodeproj
+Package*
+.build
+xcuserdata
+*.xcodeproj*/**
+DerivedData/
+.DS_Store
+org.llvm.clang*

@@ -1,7 +1,8 @@
 {
-    "host": "localhost",
-    "user": "root",
-    "password": "",
+    "hostname": "mysql",
+    "user": "vapor",
+    "password": "friend",
+    "port": "3306",
     "database": "friends",
     "encoding": "utf8"
 }
